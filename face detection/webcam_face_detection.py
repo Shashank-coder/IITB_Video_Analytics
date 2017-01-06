@@ -1,5 +1,4 @@
-# exit using escape
-# output fomat -> python webcam_face_detection.py -o output
+# exit using q
 
 from IITB_Video_Analytics.summary.keyclipwriter import KeyClipWriter
 from imutils.video import VideoStream
