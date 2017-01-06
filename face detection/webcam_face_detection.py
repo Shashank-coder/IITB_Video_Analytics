@@ -1,4 +1,4 @@
-# exit using q
+# exit using 'q'
 
 from IITB_Video_Analytics.summary.keyclipwriter import KeyClipWriter
 from imutils.video import VideoStream

@@ -1,6 +1,3 @@
-# USAGE
-# python save_key_events.py --output output
-
 # import the necessary packages
 from __future__ import print_function
 from IITB_Video_Analytics.summary.keyclipwriter import KeyClipWriter

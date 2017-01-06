@@ -1,6 +1,3 @@
-# USAGE
-# python save_key_events.py --output output
-
 # import the necessary packages
 from IITB_Video_Analytics.summary.keyclipwriter import KeyClipWriter
 from imutils.video import VideoStream
